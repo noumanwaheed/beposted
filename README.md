@@ -21,7 +21,7 @@ Technologies that have been used while developing the project.
 ### Note
 I developed this project when i was entitled as Software Engineer in **Teraception**.
 
-[Website](https://beposted.com)
+[Website](https://www.beposted.com)
 ```
 
 For developer's portfolio visit [Official Website](https://noumanwaheed.com).
